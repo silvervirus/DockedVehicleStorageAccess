@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\DockedVehicleStorageAccess\\DockedVehicleStorageAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\DockedVehicleStorageAccess\\DockedVehicleStorageAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\DockedVehicleStorageAccess\\DockedVehicleStorageAccess.csproj",
+        "projectName": "DockedVehicleStorageAccessSML",
+        "projectPath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\DockedVehicleStorageAccess\\DockedVehicleStorageAccess.csproj",
+        "packagesPath": "C:\\Users\\Cookay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\Randy\\SubnauticaModSystem-master\\SubnauticaModSystem\\DockedVehicleStorageAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Cookay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[*-*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "PolySharp": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[1.13.*, )"
+            },
+            "Subnautica.Nautilus": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[*-*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccess.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccess.Properties.Resources.resources
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccess.csproj.GenerateResource.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\bin\Debug\mod.json
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\bin\Debug\DockedVehicleStorageAccessSML.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\bin\Debug\DockedVehicleStorageAccessSML.pdb
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccessSML.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\Randy\SubnauticaModSystem-master\SubnauticaModSystem\DockedVehicleStorageAccess\obj\Debug\DockedVehicleStorageAccessSML.pdb
